@@ -1,4 +1,4 @@
-<pre>
+```
 Analysing Android App Permissions and Mobile Traffic
 
 A.VERIFY
@@ -392,29 +392,20 @@ K. OPTIONAL SYSTEM SECURITY CHECKS
 L. RESULT
 --------------------------------------------------
 (System audit completed; vulnerabilities identified and mitigation suggested)
+```
 
+---
 
+### CDN
 
-
-
-
-
-
-CDN 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/Experiment%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/Experiment%20l2.pdf)
-
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/log%20files%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/log%20files%20l2_compressed.pdf)
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/risk%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/risk%20l2.pdf)
 
-
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/testing2%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/testing2%20l2.pdf)
-
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/week-8%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/week-8%20l2_compressed.pdf)
 
-
-
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf)
-</pre>
