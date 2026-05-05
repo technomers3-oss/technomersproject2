@@ -13,6 +13,7 @@ B.SETUP PROXY
 C.SEND CERTIFICATE TO EMULATOR
 1.C:\Users\Admin\AppData\Local\Android\Sdk\platform-tools>adb push C:\Users\Admin\Downloads\burpcer.der /sdcard/Download/
 
+----------------------------------------------------------------------------------------------
 
 
 
@@ -67,6 +68,15 @@ K. OPTIONAL (USEFUL ADDITIONAL COMMANDS FOR ANALYSIS)
 
 
 
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
 Testing IoT Device Security (Default Passwords & Open Ports)
 
 A. DEPLOY VULNERABLE IoT SIMULATION (DOCKER)
@@ -111,6 +121,15 @@ Inspect HTTP requests
 
 
 
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
 
 LOG FILE ANALYSIS FOR INCIDENT DETECTION LAB
 
@@ -179,6 +198,16 @@ P. CHECK RECENT LOG ACTIVITY
 journalctl --since "10 minutes ago"
 
 --------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -277,6 +306,17 @@ https://haveibeenpwned.com
 
 ---------------------------------------------------------------------------------------
 
+
+
+
+
+
+
+
+
+
+
+
 CONDUCTING A SECURITY AUDIT AND RISK ASSESSMENT
 
 --------------------------------------------------
@@ -352,3 +392,28 @@ K. OPTIONAL SYSTEM SECURITY CHECKS
 L. RESULT
 --------------------------------------------------
 (System audit completed; vulnerabilities identified and mitigation suggested)
+
+
+
+
+
+
+
+
+CDN 
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/Experiment%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/Experiment%20l2.pdf)
+
+
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/log%20files%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/log%20files%20l2_compressed.pdf)
+
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/risk%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/risk%20l2.pdf)
+
+
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/testing2%20l2.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/testing2%20l2.pdf)
+
+
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/week-8%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/week-8%20l2_compressed.pdf)
+
+
+
+[https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf)
