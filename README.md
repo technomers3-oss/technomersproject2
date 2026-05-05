@@ -1,3 +1,4 @@
+<pre>
 Analysing Android App Permissions and Mobile Traffic
 
 A.VERIFY
@@ -61,8 +62,6 @@ K. OPTIONAL (USEFUL ADDITIONAL COMMANDS FOR ANALYSIS)
 3.df -h
 4.file forensic_image.dd
 5.md5sum forensic_image.dd
-
-
 
 
 
@@ -317,6 +316,7 @@ https://haveibeenpwned.com
 
 
 
+
 CONDUCTING A SECURITY AUDIT AND RISK ASSESSMENT
 
 --------------------------------------------------
@@ -417,3 +417,4 @@ CDN
 
 
 [https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf](https://cdn.jsdelivr.net/gh/technomers3-oss/technomersproject2@main/whatsapp%20l2_compressed.pdf)
+</pre>
